@@ -7,6 +7,12 @@ You can connect an Android device to use the Wifi network to which the smartphon
 wget -q -O - https://raw.githubusercontent.com/sergeiterehov/prestigio-133s-ubuntu-fix/master/fix.sh | sudo bash
 ```
 
+Short version:
+
+```bash
+wget -q -O - https://goo.gl/2HcTUY | sudo bash
+```
+
 # Apply fixes force
 
 If you need make fix force:
