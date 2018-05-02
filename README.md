@@ -9,5 +9,5 @@ wget -q -O - https://raw.githubusercontent.com/sergeiterehov/prestigio-133s-ubun
 
 # Other languages
 
-- [English](./blob/master/languages/en.readme.md)
-- [Русский](./blob/master/languages/ru.readme.md)
+- [English](./languages/en.readme.md)
+- [Русский](./languages/ru.readme.md)
