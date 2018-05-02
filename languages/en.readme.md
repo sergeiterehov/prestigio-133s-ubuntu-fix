@@ -6,8 +6,3 @@ You can connect an Android device to use the Wifi network to which the smartphon
 ```bash
 wget -q -O - https://raw.githubusercontent.com/sergeiterehov/prestigio-133s-ubuntu-fix/master/fix.sh | sudo bash
 ```
-
-# Other languages
-
-[English](./blob/master/languages/en.readme.md)
-[Русский](./blob/master/languages/ru.readme.md)
