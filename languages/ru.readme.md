@@ -6,3 +6,11 @@
 ```bash
 wget -q -O - https://raw.githubusercontent.com/sergeiterehov/prestigio-133s-ubuntu-fix/master/fix.sh | sudo bash
 ```
+
+# Применить фикс немедленно
+
+Вы можете пофиксить оборудование в любой момент:
+
+```bash
+sudo fix-me
+```
